@@ -1,10 +1,10 @@
 /** @type {import('tailwindcss').Config} */
-const daisyPlugin = require('daisyui');
+const daisyPlugin = require("daisyui");
 
 module.exports = {
-  content: ['./src/**/*.{js,jsx,ts,tsx}'],
-  theme: {
-    extend: {},
-  },
-  plugins: [daisyPlugin],
+    content: ["./src/**/*.{js,jsx,ts,tsx}"],
+    theme: {
+        extend: {},
+    },
+    plugins: [daisyPlugin],
 };
