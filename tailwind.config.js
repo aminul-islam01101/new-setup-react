@@ -6,5 +6,5 @@ module.exports = {
     theme: {
         extend: {},
     },
-    plugins: [daisyPlugin],
+    plugins: [daisyPlugin]
 };
